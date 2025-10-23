@@ -1,5 +1,3 @@
-README file
-0
 # TuneHUB 🎵  
 
 **TuneHUB** is a web-based music platform that offers seamless music experiences for users. It supports user registration, song management, playlist creation, and premium features through Razorpay integration.
