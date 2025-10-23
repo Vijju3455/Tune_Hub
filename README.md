@@ -64,8 +64,8 @@ src
 ### Steps to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/shasidhar7/TuneHUB.git
-   cd TuneHUB
+   git clone https://github.com/Vijju3455/Tune_Hub.git
+   cd Tune_Hub
 
 2. Configure the database in application.properties:
    ```properties
